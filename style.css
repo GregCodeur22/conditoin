@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(194, 187, 177);
+}
+
+#root{
+    text-align: center;
+    color: rgb(23, 91, 163);
+    padding: auto;
+    margin: auto;
+}
+
